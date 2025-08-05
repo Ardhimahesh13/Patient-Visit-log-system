@@ -11,10 +11,10 @@ This application provides a user-friendly interface for a small clinic or a solo
 *(**Trainer's Note:** Replace these links after you take your own screenshots! Create a folder named `screenshots` in your project directory and save your images there.)*
 
 **1. Main Data Entry Form** - Clean and intuitive form for adding or viewing patient records.
-![Data Entry Form](screenshots/form-view.png)
+
 
 **2. Patient Visit Summary Report** - A professional report grouping all visits by patient name.
-![Summary Report](screenshots/report-view.png)
+
 
 ## ✨ Key Features
 
@@ -64,8 +64,6 @@ To run this application on your local machine, please follow these steps.
 * **LinkedIn:** `[linkedin.com/in/ardhi-mahesh-40b743122]`
 
 
-## 📜 License
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as you see fit. See the `LICENSE` file for more details.
 
 ---
